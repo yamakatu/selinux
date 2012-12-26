@@ -1,5 +1,5 @@
 #
-# Author:: Katsushi Yamashita (<yamakatun@gmail.com>)
+# Author:: Katsushi Yamashita (<yamakatun@hotmail.co.jp>)
 # Cookbook Name:: selinux
 # Recipe:: disabled_reboot
 #
